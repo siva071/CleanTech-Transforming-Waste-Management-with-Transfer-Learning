@@ -42,7 +42,7 @@ This project is licensed under the **MIT License**.
 ## 🧾 Project Info
 
 - **Project Name:** CleanTech: Transforming Waste Management with Transfer Learning  
-- **Team ID:** LTVIP2025TMID38970 
+- **Team ID:** LTVIP2025TMID46538
 - **Phase:** Ideation Phase - Empathize & Discover  
 - **Date:** 31 January 2025  
 - **Maximum Marks:** 4 Marks
